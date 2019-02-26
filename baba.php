@@ -3,26 +3,26 @@
 $ABCPintar=array(
 array(
 array(
-            "❣হুম সঠিক বলছেন❣",
+            "হুম..❣",
           " ",
         "   ",
       " ",
     " ",
 ),
 array(
-" রাইট প্রিয়",
+" hm..",
 )),
 
 array(
 array(
-            "তাইবুঝি",
+            "Gd..",
               " ",
                 " ",
                   "  ",
                     " ",
 ),
 array(
-" ❣সঠিক বলছেন❣",
+" hmm..❣",
 )),
 
 array(
@@ -35,7 +35,7 @@ array(
 
 array(
 array(
-            " ❣সুন্দর হইছে❣",
+            " Gd..❣",
 ),
 array(
 " ",
@@ -43,7 +43,7 @@ array(
 
 array(
 array(
-            " ❣য়েছ❣",
+            " hmm..❣",
         " ",
     " ",
 ),
@@ -81,25 +81,25 @@ array(
 );
 
 $ABCNormal=array(
-"❣রাইট❣",
+"gd...❣",
 );
 
 $ABCNomer=array(
 array(
-"❣hmmm❣",
+"❣hmm❣",
 ),
 array(
-"❣good post❣",
+"gd...❣",
 ),
 array(
-"❣right❣",
+"ji..❣",
 ),
 array(
-"❣yes❣",
+"hmm..❣",
 ));
 
 $ABCPhoto=array(
-"❣nice❣",
+"gd...❣",
 );
 
 function getJam($name){
