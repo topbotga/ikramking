@@ -10,7 +10,7 @@ array(
     "hmmm",
 ),
 array(
-" hm..",
+"hm..",
 )),
 
 array(
@@ -21,8 +21,7 @@ array(
                   "hmmm",
                     "hmmm",
 ),
-array(
-"hmm..",
+array("hmm..",
 )),
 
 array(
@@ -35,7 +34,7 @@ array(
 
 array(
 array(
-            "Gd..",
+         "Gd..",
 ),
 array(
 " ",
@@ -43,7 +42,7 @@ array(
 
 array(
 array(
-            " hmm..❣",
+            "hmm..❣",
         "hm",
     "hm",
 ),
@@ -86,7 +85,7 @@ $ABCNormal=array(
 
 $ABCNomer=array(
 array(
-"hmm..",
+            "hmm..",
 ),
 array(
 "gd...",
