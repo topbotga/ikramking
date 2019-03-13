@@ -86,7 +86,7 @@ $ABCNormal=array(
 
 $ABCNomer=array(
 array(
-"❣hmm❣",
+"hmm❣",
 ),
 array(
 "gd...❣",
