@@ -120,7 +120,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*5);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*5));
 
-return ' '.$jam.' '.$jam.'
+return ''.$jam.''.$jam.'
 
  
 '.$hr;
@@ -149,14 +149,14 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Seconds ??';
+$ups=$text.''.$d.' Seconds ??';
 }else{
-$ups=$text.' '.$m.'  '.$d.'  ';}
+$ups=$text.''.$m.''.$d.'';}
 }
 $me=$by[rand(0,count($by)-1)];
 $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
-$eps=$like.' '.$nm;
+$eps=$like.''.$nm;
 $ops=getJam($nm);
 $site='';
 $true=$ops.'
