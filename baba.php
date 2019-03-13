@@ -3,11 +3,11 @@
 $ABCPintar=array(
 array(
 array(
-            "হুম..❣",
-          " ",
-        "   ",
-      " ",
-    " ",
+            "হুম..",
+          "hm",
+        "hmm",
+      "hmm",
+    "hmmm",
 ),
 array(
 " hm..",
@@ -16,26 +16,26 @@ array(
 array(
 array(
             "Gd..",
-              " ",
-                " ",
-                  "  ",
-                    " ",
+              "hm",
+                "hmm",
+                  "hmmm",
+                    "hmmm",
 ),
 array(
-" hmm..❣",
+"hmm..",
 )),
 
 array(
 array(
-" ",
+"",
 ),
 array(
-" ",
+"",
 )),
 
 array(
 array(
-            " Gd..❣",
+            "Gd..",
 ),
 array(
 " ",
@@ -44,62 +44,62 @@ array(
 array(
 array(
             " hmm..❣",
-        " ",
-    " ",
+        "hm",
+    "hm",
 ),
 array(
-" ",
+"",
 )),
 
 array(
 array(
-            " ",
-            " ",
+            "",
+            "",
             "",
 ),
 array(
-" ",
+"",
 )),
 
 array(
 array(
-              " ",
+              "",
 ),
 array(
-" ",
+"",
 )),
 
 array(
 array(
-" ",
-" ",
-" ",
+"",
+"",
+"",
 ),
 array(
-"  ",
+"",
 )),
 );
 
 $ABCNormal=array(
-"gd...❣",
+"gd..",
 );
 
 $ABCNomer=array(
 array(
-"hmm❣",
+"hmm..",
 ),
 array(
-"gd...❣",
+"gd...",
 ),
 array(
-"ji..❣",
+"ji..",
 ),
 array(
-"hmm..❣",
+"hmm..",
 ));
 
 $ABCPhoto=array(
-"gd...❣",
+"gd...",
 );
 
 function getJam($name){
