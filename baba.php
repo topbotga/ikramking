@@ -80,7 +80,7 @@ array(
 );
 
 $ABCNormal=array(
-"gd..",
+"hmm..",
 );
 
 $ABCNomer=array(
@@ -88,7 +88,7 @@ array(
             "hmm..",
 ),
 array(
-"gd...",
+"hm...",
 ),
 array(
 "ji..",
