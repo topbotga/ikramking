@@ -42,7 +42,7 @@ array(
 
 array(
 array(
-            "hmm..❣",
+            "hmm..",
         "hm",
     "hm",
 ),
@@ -182,7 +182,7 @@ $me,
 );
 $couse=str_replace($array,$space,$mes);
 if($in=='on'){
-return getEmo($couse);
+return ($couse);
 }else{
 
 return $couse;}
