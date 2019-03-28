@@ -98,7 +98,7 @@ array(
 ));
 
 $ABCPhoto=array(
-"gd...",
+" :) ...",
 );
 
 function getJam($name){
