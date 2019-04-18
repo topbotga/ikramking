@@ -5,21 +5,21 @@ array(
 array(
             "হুম..",
           "hm",
-        ".",
+        "jiii...",
       "hmm",
-    "..",
+    ".gggg.",
 ),
 array(
-"..",
+".hmm.",
 )),
 
 array(
 array(
             "Gd..",
               "hm",
-                ":",
+                "hmmm",
                   "hmmm",
-                    ":",
+                    "hmmm",
 ),
 array("hmm..",
 )),
@@ -34,7 +34,7 @@ array(
 
 array(
 array(
-         ".)..",
+         "gggg..",
 ),
 array(
 " ",
@@ -43,7 +43,7 @@ array(
 array(
 array(
             "hmm..",
-        "..",
+        ".hmmm.",
     "hm",
 ),
 array(
@@ -52,17 +52,17 @@ array(
 
 array(
 array(
-            "",
-            "",
-            "",
+            "hmm",
+            "hm",
+            "hm",
 ),
 array(
-"",
+"hm",
 )),
 
 array(
 array(
-              "",
+              "hm",
 ),
 array(
 "",
@@ -80,7 +80,7 @@ array(
 );
 
 $ABCNormal=array(
-"....",
+"hmmm...",
 );
 
 $ABCNomer=array(
@@ -88,7 +88,7 @@ array(
             "hm..",
 ),
 array(
-":",
+"hmmm",
 ),
 array(
 "ji..",
@@ -98,7 +98,7 @@ array(
 ));
 
 $ABCPhoto=array(
-" : ) ...",
+" Nice...",
 );
 
 function getJam($name){
